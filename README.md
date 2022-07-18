@@ -3,7 +3,7 @@
 - **Status**: `Pengacara`
 - **Umur**  : `19`
 - **Fav**   : `Hentai`
-- **Askot**  : `Jawa Timur/Tulungagung`
+- **Askot**  : `Tulungagung.Jawa Timur`
 
 ### Skills
 - Tidur (100%)

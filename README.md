@@ -5,11 +5,10 @@
 - **Fav**   : `Hentai`
 - **Askot**  : `Tulungagung.Jawa Timur`
 
-### Skills
-- Tidur (100%)
-- Makan (100%)
-- Sange (100000%)
-- Belajar kode (-100%)
+
+<p align="center">
+  <img align="center" alt="GIF" src="https://i.postimg.cc/QtLnbHqK/Cheery-Separate-Goldeneye.gif" />
+</p>
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
 

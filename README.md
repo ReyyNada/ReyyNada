@@ -1,5 +1,5 @@
 ### About me
-- **Nama**  : `M.Dito A`
+- **Nama**  : `M.Deta A`
 - **Status**: `Pengacara`
 - **Umur**  : `16`
 - **Fav**   : `Hentai`

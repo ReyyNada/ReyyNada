@@ -1,5 +1,5 @@
 ### About me
-- **Nama**  : `M.Sendy A`
+- **Nama**  : `M.Siren A`
 - **Status**: `Pengacara`
 - **Umur**  : `16`
 - **Fav**   : `Hentai`
@@ -8,11 +8,6 @@
 
 <p align="center">
   <img align="center" alt="GIF" src="https://i.postimg.cc/QtLnbHqK/Cheery-Separate-Goldeneye.gif" />
-</p>
-
-<h4 align="center"><b>My GitHub Stats💛</b></h4>
-
-![stats](https://github-readme-stats.vercel.app/api?username=ReyyNada&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=false)
 
 ### Follow Me💥 :
 </p>
@@ -24,10 +19,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <p align="center"> 
 
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=ReyyNada)
 
 </details>
 
